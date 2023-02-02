@@ -1,0 +1,54 @@
+[
+   {
+      "post_id": "01",
+      "category_id": "01",
+      "image_url": "https://ibb.co/v4BpSy6",
+      "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+      "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "author": {
+         "name": "Sarthak Kamra",
+         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+       },
+       "total_view": "1.4k"
+    },
+
+    {
+      "post_id": "02",
+      "category_id": "03",
+      "image_url": "https://ibb.co/7NbbHnj",
+      "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+      "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "author": {
+         "name": "Sarthak Kamra",
+         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+       },
+       "total_view": "1.4k"
+    },
+
+    
+    {
+      "post_id": "02",
+      "category_id": "02",
+      "image_url": "https://ibb.co/7NbbHnj",
+      "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+      "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "author": {
+         "name": "Sarthak Kamra",
+         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+       },
+       "total_view": "1.4k"
+    },
+
+    {
+      "post_id": "04",
+      "category_id": "04",
+      "image_url": "https://ibb.co/7NbbHnj",
+      "title": "Software Developer",
+      "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "author": {
+         "name": "Joseph Gray",
+         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+       },
+       "total_view": "1.4k"
+    }
+]

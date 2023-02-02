@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './GroupNav.css';
+import './CategoryNav.css';
 import downArrow from '../../assets/icons/down-arrow.png';
 import peoples from '../../assets/icons/peoples.png';
 
-const GroupNav = () => {
+const CategoryNav = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg mt-3">
@@ -36,7 +36,7 @@ const GroupNav = () => {
 
               <div className='bg-primary ps-2 rounded-2'>
                 <span><img src={peoples} alt="" /></span>
-                <span> <button type="button" class="btn fw-semibold text-white ps-1">Join Group</button></span>
+                <span> <button type="button" className="btn fw-semibold text-white ps-1">Join Group</button></span>
               </div>
             </div>
 
@@ -44,10 +44,10 @@ const GroupNav = () => {
         </div>
       </nav>
 
-      <hr className='w-75 mx-auto mt-0' />
+      <hr className='w-75 mx-auto mt-0 hr' />
 
     </div>
   );
 };
 
-export default GroupNav;
+export default CategoryNav;
