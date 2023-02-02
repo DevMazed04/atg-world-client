@@ -1,6 +1,7 @@
 import React from 'react';
+import './Navbar.css';
 import logo from '../../assets/images/logo/logo.png';
-import './Navbar.css'
+import downArrow from '../../assets/icons/down-arrow.png';
 
 const Navbar = () => {
   return (
@@ -21,8 +22,8 @@ const Navbar = () => {
 
         <div className='right-side'>
           <span>Create account. </span>
-          <span className='text-primary fw-bolder'> It’s free!</span>
-          <span><i className="fa-solid fa-angle-down ms-2"></i></span>
+          <span className='text-primary fw-bolder pe-1'> It’s free!</span>
+          <span> <img src={downArrow} alt="" className='' /></span>
         </div>
       </div>
     </nav >

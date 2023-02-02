@@ -1,7 +1,7 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import Banner from '../components/Banner/Banner';
-import Events from '../components/Events/Events';
+import GroupNav from '../components/GroupNav/GroupNav';
 import Navbar from '../components/Navbar/Navbar';
 
 
@@ -10,6 +10,7 @@ const Main = () => {
     <div>
       <Navbar></Navbar>
       <Banner></Banner>
+      <GroupNav></GroupNav>
 
       <div className='grid grid-cols-3 gap-10'>
         <div className='col-span-2'>
