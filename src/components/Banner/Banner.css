@@ -1,0 +1,24 @@
+.img-overlay {
+   filter: brightness(50%);
+   opacity: 98%;
+}
+
+.banner {
+   position: relative;
+}
+
+.first-text {
+   position: absolute;
+   bottom: 107px;
+   left: 200px;
+   font-size: 36px;
+   font-weight: 700;
+}
+
+.second-text {
+   position: absolute;
+   bottom: 80px;
+   left: 200px;
+   font-size: 18px;
+   font-weight: 400;
+}
